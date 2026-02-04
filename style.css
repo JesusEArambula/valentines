@@ -6,6 +6,11 @@
       --yesHover: #ff1f68;
 }
 
+.bunny {
+  height: 5em;
+  width: 5em;
+}
+
 * { box-sizing: border-box; }
 
 body {
